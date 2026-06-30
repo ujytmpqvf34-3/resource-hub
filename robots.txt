@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ujytmpqvf34-3.github.io/resource-hub/sitemap.xml
